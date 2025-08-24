@@ -1,0 +1,13 @@
+{
+"companyName": "Wix Games",
+"productName": "Duck Life 3: Evolution",
+"dataUrl": "WebGL3PokiNew.data.unityweb",
+"asmCodeUrl": "WebGL3PokiNew.asm.code.unityweb",
+"asmMemoryUrl": "WebGL3PokiNew.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL3PokiNew.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
